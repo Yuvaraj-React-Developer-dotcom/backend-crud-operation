@@ -1,0 +1,16 @@
+{
+  "name": "crud-operation",
+  "version": "1.0.0",
+  "description": "to do practice with backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yuvaraj",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.5.4",
+    "nodemon": "^3.1.4"
+  }
+}
